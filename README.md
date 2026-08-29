@@ -42,8 +42,8 @@
 <h3>🚀 Featured Projects</h3>
 <ul>
   <li><b><a href="https://saifaly12.github.io/Mortgage-Calculator/">Mortgage Repayment Calculator</a></b> - Interactive web calculator built with JS, dynamic inputs, and custom CSS styling.</li>
-  <li><b><a href="#">Product Management App</a></b> - Front-End CRUD app utilizing LocalStorage persistence and dynamic DOM manipulation.</li>
-  <li><b><a href="#">Ticket Generator</a></b> - Modern ticket builder featuring glassmorphism design and custom form validations.</li>
+  <li><b><a href="https://saifaly12.github.io/Portfolio/">My Test Portfolio</a></b> - Front-End Portfolio app</li>
+  <li><b><a href="https://saifaly12.github.io/Contact/">Contact Generator</a></b> - Modern Contact builder featuring glassmorphism design and custom form validations.</li>
 </ul>
 
 <br>
