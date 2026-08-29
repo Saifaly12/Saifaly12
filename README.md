@@ -49,11 +49,12 @@
 
 <br>
 
+<!-- GitHub Stats Section -->
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saifaly12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifaly12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%">
+  <img src="https://github-stats-extended.vercel.app/api?username=Saifaly12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saifaly12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%">
 </p>
 
 <p align="center">
