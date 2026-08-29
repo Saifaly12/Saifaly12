@@ -1,16 +1,19 @@
 ## Hi there 👋
+### Hi there 👋, I'm Seif
+#### A passionate Front-End Developer based in Egypt 🇪🇬
+I am a Front-End Developer dedicated to building responsive, accessible, and user-friendly web interfaces using modern HTML5, CSS3,bootstrap and JavaScript.
 
-<!--
-**Saifaly12/Saifaly12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: 
+*BOOTSTRAP 
+*ANGULAR  
+*JS  
+*HTML5 
+*CSS 
+*ES6  
+*JSON 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
