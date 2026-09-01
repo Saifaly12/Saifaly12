@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saif Ali</h1>
+<h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">Front-End Developer</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/BrunnerLivio/main/images/header.gif" alt="Header Banner" width="100%">
@@ -17,25 +17,36 @@
       <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🚀 Front-End Developer crafting responsive & interactive web applications.</li>
-        <li>🎨 Skilled in <b>HTML5, CSS3, JavaScript (ES6+), TypeScript, Angular, and Tailwind CSS</b>.</li>
-        <li>⚡ Experienced with <b>Bootstrap, Sass, jQuery</b>, animations, and REST APIs.</li>
+        <li>🎨 Skilled in <b>HTML5, CSS3, JavaScript (ES6+), Bootstrap, and C++</b>.</li>
+        <li>⚡ Experienced with layout design using <b>Flexbox & CSS Grid</b>, animations, and REST APIs.</li>
         <li>📚 Currently enhancing my web development skills & learning new front-end tools.</li>
+        <li>🔹 Skilled in <b>TypeScript</b> for typed JavaScript development.</li>
+        <li>🅰️ Learning and building web applications with <b>Angular</b>.</li>
+        <li>🎨 Familiar with <b>Sass (SCSS)</b> for scalable and maintainable styling.</li>
+        <li>💠 Experienced with <b>jQuery</b> for DOM manipulation and interactive web features.</li>
+        <li>🌊 Familiar with <b>Tailwind CSS</b> for utility-first responsive UI development.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-  <h3>👨‍💻 About Me</h3>
-  <ul>
-    <li>🚀 Front-End Developer crafting responsive & interactive web applications.</li>
-    <li>🎨 Skilled in <b>HTML5, CSS3, JavaScript (ES6+), Bootstrap, and C++</b>.</li>
-    <li>⚡ Experienced with layout design using <b>Flexbox & CSS Grid</b>, animations, and REST APIs.</li>
-    <li>📚 Currently enhancing my web development skills & learning new front-end tools.</li>
-    <li>🔹 Skilled in <b>TypeScript</b> for typed JavaScript development.</li>
-    <li>🅰️ Learning and building web applications with <b>Angular</b>.</li>
-    <li>🎨 Familiar with <b>Sass (SCSS)</b> for scalable and maintainable styling.</li>
-    <li>💠 Experienced with <b>jQuery</b> for DOM manipulation and interactive web features.</li>
-    <li>🌊 Familiar with <b>Tailwind CSS</b> for utility-first responsive UI development.</li>
-  </ul>
-</td>
+      <h3>🛠️ Tech Stack & Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+        <br><br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+        <br><br>
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass">
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -50,6 +61,7 @@
 
 <br>
 
+<!-- GitHub Stats Section -->
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
